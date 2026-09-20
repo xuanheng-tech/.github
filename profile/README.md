@@ -12,6 +12,6 @@ Our public projects will be published here as they become ready for external use
 
 ## Connect
 
-- Website: https://xuanhengtech.cn
+- Website: [https://xuanhengtech.cn](https://www.xuanhengtech.cn)
 - X: [@xuanhengtech](https://x.com/xuanhengtech)
 - Email: contact@xuanhengtech.cn
